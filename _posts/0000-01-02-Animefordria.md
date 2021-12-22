@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our github slide from animefordria!"
 ---
-this might be right
+this is my awesome slide
 Use the left arrow to go back!
